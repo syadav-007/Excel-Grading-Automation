@@ -1,0 +1,99 @@
+=0
+[O5]_Check1_[AVERAGE]_Did not use AVERAGE function in cell O5_-0.5_38812
+[O7]_Check1_[COUNT]_Did not use COUNT function in cell O7_-0.5_50
+[O9]_Check1_[COUNTIF]_Did not use COUNTIF function in cell O9_-0.5_9
+[O11]_Check1_[SUMIF]_Did not use SUMIF function in cell O11_-0.5_1103050
+[O13]_Check1_[AVERAGEIF]_Did not use AVERAGEIF function in cell O13_-0.5_30640.278
+[O15]_Check2_[SUMIFS]_Did not use SUMIFS function in cell O15_-1_725050
+[O17]_Check1_[AVERAGEIFS]_Did not use AVERAGEIFS function in cell O17_-0.5_24900
+[O19]_Check1_[MAX]_Did not use MAX function in cell O19_-0.5_135000
+[O21]_Check1_[MIN]_Did not use MIN function in cell O21_-0.5_16950
+=1
+*[F6]_Check1_[IF]_Did not use IF function properly in cell F6_-1_High
+**[F7]_Check1_[IF]_Did not use IF function properly in cell F7_-1_Moderate
+**[F15]_Check1_[IF]_Did not use IF function properly in cell F15_-1_Low
+*[G6]_Check1_[IF]_Did not use IF function properly in cell G6_-1_Good
+**[G7]_Check1_[IF]_Did not use IF function properly in cell G7_-1_Poor
+**[G15]_Check1_[IF]_Did not use IF function properly in cell G15_-1_Very Good
+[A1]_Check1_[0]_Dummy cell ignore it_-0_0
+=2
+*[D6]_Check1_[FIND]_Did not use FIND function in cell D6_-0.5_9
+**[D7]_Check1_[FIND]_Did not use FIND function in cell D7_-0.5_5
+**[D10]_Check1_[FIND]_Did not use FIND function in cell D10_-0.5_6
+*[E6]_Check1_[FIND]_Did not use FIND function in cell E6_-0.5_16
+**[E7]_Check1_[FIND]_Did not use FIND function in cell E7_-0.5_12
+**[E10]_Check1_[FIND]_Did not use FIND function in cell E10_-0.5_12
+*[F6]_Check1_[MID]_Did not use MID function in cell F6_-1_hotmail
+**[F6]_Check1_[FIND]_Did not use FIND function in cell F6_-1_hotmail
+**[F7]_Check1_[MID]_Did not use MID function in cell F7_-1_gmail
+**[F7]_Check1_[FIND]_Did not use FIND function in cell F7_-1_gmail
+**[F10]_Check1_[MID]_Did not use MID function in cell F10_-1_outlook
+**[F10]_Check1_[FIND]_Did not use FIND function in cell F10_-1_outlook
+*[G6]_Check1_[LEFT]_Did not use LEFT function in cell G6_-0.5_Surendra
+**[G7]_Check1_[LEFT]_Did not use LEFT function in cell G7_-0.5_Ajay
+**[G10]_Check1_[LEFT]_Did not use LEFT function in cell G10_-0.5_Surat
+*[H6]_Check1_[MID]_Did not use MID function in cell H6_-0.5_Achari
+**[H7]_Check1_[MID]_Did not use MID function in cell H7_-0.5_jeevan
+**[H10]_Check1_[MID]_Did not use MID function in cell H10_-0.5_singh
+*[I6]_Check1_[MID]_Did not use MID function in cell I6_-1_1125
+**[I6]_Check1_[FIND]_Did not use FIND function in cell I6_-1_1125
+**[I7]_Check1_[MID]_Did not use MID function in cell I7_-1_1276
+**[I7]_Check1_[FIND]_Did not use FIND function in cell I7_-1_1276
+**[I10]_Check1_[MID]_Did not use MID function in cell I10_-1_1354
+**[I10]_Check1_[FIND]_Did not use FIND function in cell I10_-1_1354
+*[J6]_Check1_[UPPER]_Did not use UPPER function in cell J6_-0.5_SURENDRA
+**[J7]_Check1_[UPPER]_Did not use UPPER function in cell J7_-0.5_AJAY
+**[J10]_Check1_[UPPER]_Did not use UPPER function in cell J10_-0.5_SURAT
+*[K6]_Check1_[PROPER]_Did not use PROPER function in cell K6_-0.5_Surendra
+**[K7]_Check1_[PROPER]_Did not use PROPER function in cell K7_-0.5_Ajay
+**[K10]_Check1_[PROPER]_Did not use PROPER function in cell K10_-0.5_Surat
+*[D17]_Check1_[MONTH]_Did not use MONTH function in cell D17_-0.34_4
+**[D18]_Check1_[MONTH]_Did not use MONTH function in cell D18_-0.34_3
+**[D23]_Check1_[MONTH]_Did not use MONTH function in cell D23_-0.34_12
+*[E17]_Check1_[TEXT]_Did not use TEXT function in cell E17_-1_April
+**[E18]_Check1_[TEXT]_Did not use TEXT function in cell E18_-1_March
+**[E23]_Check1_[TEXT]_Did not use TEXT function in cell E23_-1_December
+*[F17]_Check1_[DAY]_Did not use DAY function in cell F17_-0.33_2
+**[F18]_Check1_[DAY]_Did not use DAY function in cell F18_-0.33_4
+**[F23]_Check1_[DAY]_Did not use DAY function in cell F23_-0.33_18
+*[G17]_Check1_[YEAR]_Did not use YEAR function in cell G17_-0.33_2021
+**[G18]_Check1_[YEAR]_Did not use YEAR function in cell G18_-0.33_2021
+**[G23]_Check1_[YEAR]_Did not use YEAR function in cell G23_-0.33_2021
+*[H17]_Check1_[WEEKNUM]_Did not use WEAKNUM function in cell H17_-1_14
+**[H18]_Check1_[WEEKNUM]_Did not use WEAKNUM function in cell H18_-1_10
+**[H23]_Check1_[WEEKNUM]_Did not use WEAKNUM function in cell H23_-1_51
+*[I17]_Check1_[TEXT]_Did not use TEXT function in cell I17_-1_Friday
+**[I18]_Check1_[TEXT]_Did not use TEXT function in cell I18_-1_Thursday
+**[I23]_Check1_[TEXT]_Did not use TEXT function in cell I23_-1_Saturday
+[C30]_Check1_[TODAY]_Did not use TODAY function in cell C30_-1_19-05-2022
+=3
+[E7]_Check1_[NETWORKDAYS.INTL]_Did not use NETWORKDAYS.INTL function in cell E7_-2_329
+*[F16]_Check1_[WORKDAY.INTL]_Did not use WORKDAY.INTL function in cell F16_-3_02-06-2021
+**[F17]_Check1_[WORKDAY.INTL]_Did not use WORKDAY.INTL function in cell F17_-3_03-06-2021
+**[F19]_Check1_[WORKDAY.INTL]_Did not use WORKDAY.INTL function in cell F19_-3_27-06-2021
+[A1]_Check1_[0]_Dummy cell ignore it_-0_0
+=4
+[G6]_Check1_[5]_Did not use correct value in cell G6_-1_5
+[G7]_Check1_[-12]_Did not use correct value in cell G7_-1_-12
+[G8]_Check1_[10]_Did not use correct value in cell G8_-1_10
+[G9]_Check1_[-30]_Did not use correct value in cell G9_-1_-30
+=5
+*[I7]_Check1_[INDEX]_Did not use INDEX function in cell I7_-2_North
+**[I7]_Check1_[MATCH]_Did not use MATCH function in cell I7_-2_North
+[J7]_Check1_[VLOOKUP]_Did not use VLOOKUP function in cell J7_-1_225712
+=6
+*[H8]_Check1_[INDEX]_Did not use INDEX function in cell H8_-5_67
+**[H8]_Check1_[MATCH]_Did not use MATCH function in cell H8_-5_67
+**[H8]_Check1_[EXACT]_Did not use EXACT function in cell H8_-5_67
+**[I8]_Check1_[INDEX]_Did not use INDEX function in cell I8_-5_54
+**[I8]_Check1_[MATCH]_Did not use MATCH function in cell I8_-5_54
+**[I8]_Check1_[EXACT]_Did not use EXACT function in cell I8_-5_54
+[K8]_Check1_[SUM]_Did not use SUM function in cell K8_-1_203
+*[F22]_Check1_[VLOOKUP]_Did not use VLOOKUP function in cell F22_-5_926.9
+**[F23]_Check1_[VLOOKUP]_Did not use VLOOKUP function in cell F23_-5_750.6
+**[F25]_Check1_[VLOOKUP]_Did not use VLOOKUP function in cell F25_-5_750.6
+[A1]_Check1_[0]_Dummy cell ignore it_-0_0
+=7
+[E5]_Check1_[data scientist]_wrong answer in cell E5_-2.5_data scientist
+[E6]_Check1_[Python]_wrong answer in cell E6_-5_Python
+[E8]_Check1_[Bellevue, WA]_wrong answer in cell E8_-2.5_Bellevue, WA
